@@ -12,29 +12,24 @@ Vybraná firma: **Nalehko s.r.o.**
 
 Firma je vhodná pro projekt ze Sales and Advertising, protože kombinuje:
 
-- e-commerce prodej,
-- kamenné prodejny,
-- odborné poradenství,
-- komunitní marketing,
-- vlastní produktovou značku,
-- obsahový marketing přes blog, gearlisty a akce.
+- e-commerce prodej
+- kamenné prodejny
+- odborné poradenství
+- komunitní marketing
+- vlastní produktovou značku
+- obsahový marketing přes blog, gearlisty a akce
 
 Zaměření firmy je jasně odlišitelné: nejde o obecný sportovní obchod, ale o specialistu na **ultralight outdoor gear**. Hlavní prodejní myšlenka je, že nižší hmotnost vybavení znamená větší komfort, menší bolest zad a více radosti z pohybu v přírodě.
 
 ## 2. Product range and service offer
 
-Nabídka produktů a služeb:
+Firma Nalehko nabízí především ultralehké vybavení pro turistiku, dálkové treky, bikepacking, běh, skialpinismus a další outdoorové aktivity. Sortiment lze rozdělit do několika hlavních skupin.
 
-1. **Ultralight backpacks** - lehké batohy na víkendové i dálkové treky.
-2. **Sleeping bags and quilts** - spacáky, quilty a další vybavení na spaní.
-3. **Tents, tarps and shelters** - stany, tarpy a přístřešky pro různé typy cest.
-4. **Outdoor clothing** - bundy, kalhoty, mikiny, funkční prádlo a ponožky.
-5. **Footwear** - trailová a turistická obuv.
-6. **Cooking and camping equipment** - vařiče, nádobí, filtrace vody, čelovky a doplňky.
-7. **Gearlists** - doporučené seznamy vybavení pro konkrétní typy cest, například PCT, Stezka Českem nebo víkendovka.
-8. **Expert consulting** - poradenství k výběru výbavy online i v prodejnách.
-9. **Workshops and events** - workshopy, festival a komunitní akce.
-10. **Gift vouchers** - dárkové poukazy pro zákazníky, kteří chtějí darovat vybavení, ale neznají přesný produkt.
+- **ultralehké oblečení** - např.: bundy, mikiny, vesty, kalhoty, funkční prádlo, ponožky a doplňky. Důležitou část tvoří vlastní produkty Nalehko, například mikiny Alpha Hoody, větrovky nebo izolační vrstvy, které jsou navržené s důrazem na nízkou hmotnost, prodyšnost a praktičnost.
+- **batohy a nosné systémy** - zákazníci zde hledají hlavně nízkou hmotnost, pohodlné popruhy, vhodný objem a funkční rozvržení kapes. U ultralight vybavení je batoh často až poslední položkou, kterou si zákazník vybírá, protože musí odpovídat celkové hmotnosti a objemu výbavy.
+- **vybavení na spaní** - spacáky, quilty, karimatky, stany, tarpy a doplňky pro bivakování. Tato kategorie je pro zákazníky velmi důležitá, protože přímo ovlivňuje bezpečí, pohodlí a regeneraci na cestě.
+- **vybavení na vaření, jídlo a cestovní doplňky** - vařiče, nádobí, filtry na vodu, láhve, sušená strava, organizéry, čelovky, lékárničky a další drobné produkty, které zákazník řeší při skládání kompletní výbavy
+- **služby a obsah** - firma nabízí poradenství v prodejnách, produktové články, recenze, gearlisty, inspiraci k trasám a návody pro odlehčení batohu. Tyto služby zvyšují hodnotu nákupu, protože zákazník nedostává jen produkt, ale i rozhodovací podporu a zkušenosti.  
 
 ## 3. Six questions when searching for new customers
 
@@ -48,55 +43,31 @@ Typickým zákazníkem je člověk, který tráví volný čas venku a řeší k
 
 ### Why does my customer actually buy?
 
-Zákazník nakupuje, protože chce:
-
-- odlehčit batoh,
-- zvýšit komfort při chůzi,
-- vyhnout se nekvalitnímu vybavení,
-- získat doporučení od lidí, kteří vybavení sami testují,
-- mít jistotu před náročnější cestou,
-- ušetřit čas při výběru.
+Zákazník nekupuje jen kvůli tomu, že je produkt lehčí. Kupuje, protože chce zvládnout delší trasu, méně se unavit, cestovat pohodlněji a mít vybavení, kterému může věřit. U dražších produktů hraje roli také snaha vyhnout se špatnému nákupu. Proto je důležitá odbornost prodejce, recenze, osobní zkušenost a možnost vyzkoušet produkt na prodejně.
 
 ### Where is my customer?
 
-Zákazník je online na e-shopu, ve vyhledávačích, na sociálních sítích, v outdoorových komunitách, na turistických trasách, horolezeckých stěnách, běžeckých závodech, cestovatelských festivalech a v kamenných prodejnách v Liberci a Praze.
+Zákazník je po celé České republice i na Slovensku nebo v dalších evropských zemích, protože e-shop umožňuje prodej na dálku. Fyzicky je však důležitá koncentrace v Praze a Liberci, kde jsou prodejny. Online se zákazníci pohybují ve vyhledávačích, na outdoorových fórech, v komunitách kolem dálkových treků, na Instagramu, YouTube, Facebooku, Mapy.com, Stravě a v diskusích kolem Stezky Českem nebo zahraničních trailů.
 
 ### When does my customer buy?
 
-Nejčastější nákupní momenty:
-
-- před letní turistickou sezonou,
-- před konkrétní cestou,
-- po špatné zkušenosti s těžkým nebo nekvalitním vybavením,
-- před Vánoci,
-- při slevových akcích,
-- při změně životního stylu nebo začátku nového koníčku,
-- po doporučení od kamaráda nebo influencera.
+Nákupy mají sezónní charakter. Před jarem a létem roste zájem o turistiku, stany, batohy, karimatky a lehké oblečení. Na podzim a v zimě se více prodávají izolační vrstvy, péřové bundy, zimní výbava a produkty pro skialpinismus. Zákazník ale často nakupuje i podle konkrétní plánované akce, například před odjezdem na dovolenou, dálkový trek, víkend v horách nebo závod.
 
 ### Who is my competitor?
 
-Konkurenty jsou:
-
-- velké outdoorové e-shopy a řetězce,
-- specializované obchody s turistickým vybavením,
-- značkové e-shopy výrobců,
-- zahraniční ultralight e-shopy,
-- second-hand a bazarové vybavení,
-- marketplace platformy.
-
-Hlavní výhodou Nalehko je specializace, zkušenost týmu, vlastní značka, komunitní charakter a odborné poradenství.
+Konkurencí jsou specializované outdoorové obchody, například Hanibal, HUDY, Rock Point nebo 4camping, dále velké sportovní řetězce jako Decathlon a také jiné české nebo zahraniční e-shopy s ultralight vybavením jako je například český obchod Pod 7 kilo.
 
 ## 4. Sales organisation
 
 Sales organisation u Nalehko by měla být rozdělena takto:
 
-- **E-shop team** - správa produktů, objednávek, cen, skladové dostupnosti, dopravy, plateb a zákaznické podpory.
-- **Store assistants** - osobní prodej v Liberci a Praze, poradenství, zkoušení vybavení, řešení reklamací a výměn.
-- **Product specialists** - testování vybavení, příprava gearlistů, školení prodavačů, komunikace s dodavateli.
-- **Purchasing and supplier management** - výběr značek, objednávky od dodavatelů, nákup materiálů pro vlastní značku.
-- **Marketing and content team** - kampaně, sociální sítě, newsletter, blog, SEO, PPC a akce.
-- **Customer care** - telefon, e-mail, chat, poradenství před nákupem, poprodejní péče.
-- **Management** - strategie, finance, HR, rozvoj prodejen, reporting a kontrola výkonnosti.
+- **E-shop team** - správa produktů, objednávek, cen, skladové dostupnosti, dopravy, plateb a zákaznické podpory
+- **Store assistants** - osobní prodej v Liberci a Praze, poradenství, zkoušení vybavení, řešení reklamací a výměn
+- **Product specialists** - testování vybavení, příprava gearlistů, školení prodavačů, komunikace s dodavateli
+- **Purchasing and supplier management** - výběr značek, objednávky od dodavatelů, nákup materiálů pro vlastní značku
+- **Marketing and content team** - kampaně, sociální sítě, newsletter, blog, SEO, PPC a akce
+- **Customer care** - telefon, e-mail, chat, poradenství před nákupem, poprodejní péče
+- **Management** - strategie, finance, HR, rozvoj prodejen, reporting a kontrola výkonnosti
 
 Prodejní organizace musí fungovat propojeně. Zákazník může začít výběr na blogu, pokračovat přes gearlist, zeptat se e-mailem, přijít do prodejny a finální nákup dokončit na e-shopu.
 
@@ -141,20 +112,9 @@ Prodejní organizace musí fungovat propojeně. Zákazník může začít výbě
 
 ## 3. General sales promotion campaign
 
-Název kampaně: **Odlehči první trek**
-
-Cíl: získat nové zákazníky, kteří chtějí začít s lehčí turistikou, ale zatím nevědí, co vybrat.
-
-Mechanika kampaně:
-
-- landing page s jednoduchým průvodcem výběrem,
-- tři připravené balíčky: víkend, týdenní trek, dálkový trail,
-- sleva 10 % na první nákup při registraci k newsletteru,
-- checklist ke stažení zdarma,
-- krátká konzultace v prodejně nebo online,
-- retargeting na návštěvníky gearlistů.
-
-Hlavní sdělení: **Lehčí batoh, delší cesta, větší radost.**
+Navržená kampaň se bude jmenovat „Odlehči první kilo“. Cílem bude získat zákazníky, kteří už chodí do přírody, ale zatím nemají ultralight výbavu nebo se v ní neorientují. Kampaň nabídne jednoduchý vstup do tématu: zákazník si na webu vyplní krátký dotazník o své výbavě a dostane doporučení, kde může nejrychleji ušetřit hmotnost.
+Podpora prodeje bude kombinovat online poradce, obsah na blogu, krátká videa a časově omezenou výhodu. Nový zákazník získá například dopravu zdarma nad určitou hodnotu, 10% slevu na první nákup vybrané kategorie nebo bezplatnou konzultaci v prodejně při nákupu batohu, spacáku nebo karimatky. Sleva by neměla působit jako plošné zlevnění značky, ale jako motivace k prvnímu vyzkoušení.
+Kampaň by běžela šest týdnů před začátkem hlavní turistické sezóny. Cílem není jen okamžitý prodej, ale i sběr kontaktů do newsletteru, zvýšení návštěvnosti prodejen a vytvoření první zkušenosti se značkou. Úspěch by se měřil počtem nových zákazníků, konverzním poměrem dotazníku, výší první objednávky a opakovaným nákupem do tří měsíců.
 
 ## 4. Sales support for two products
 
@@ -164,16 +124,16 @@ Target group: začínající turisté a lidé, kteří mají těžký starý bat
 
 Sales support:
 
-- porovnávací video "kolik váží běžná výbava vs. ultralight výbava",
-- kalkulačka hmotnosti batohu,
-- zvýhodněný balíček batoh + packliner + konzultace,
-- možnost vyzkoušet batoh v prodejně se zátěží.
+- porovnávací video "kolik váží běžná výbava vs. ultralight výbava"
+- kalkulačka hmotnosti batohu
+- zvýhodněný balíček batoh + packliner + konzultace
+- možnost vyzkoušet batoh v prodejně se zátěží
 
 Možné důsledky:
 
-- vyšší prodej batohů,
-- větší nároky na poradenství,
-- riziko, že zákazník koupí příliš malý batoh, pokud nepochopí princip celé výbavy.
+- vyšší prodej batohů
+- větší nároky na poradenství
+- riziko, že zákazník koupí příliš malý batoh, pokud nepochopí princip celé výbavy
 
 ### Product 2: Lightweight quilt
 
@@ -181,16 +141,16 @@ Target group: zkušenější trekkaři, bikepackeři a zákazníci řešící hm
 
 Sales support:
 
-- odborný článek quilt vs. sleeping bag,
-- e-mailová série pro zákazníky, kteří si prohlíželi kategorii spaní,
-- workshop o spaní venku,
-- bundle quilt + karimatka + dry bag.
+- odborný článek quilt vs. sleeping bag
+- e-mailová série pro zákazníky, kteří si prohlíželi kategorii spaní
+- workshop o spaní venku
+- bundle quilt + karimatka + dry bag
 
 Možné důsledky:
 
-- posílení odborné image,
-- vyšší průměrná hodnota objednávky,
-- nutnost dobře vysvětlit limity quiltu v zimě a pro neklidné spáče.
+- posílení odborné image
+- vyšší průměrná hodnota objednávky
+- nutnost dobře vysvětlit limity quiltu v zimě a pro neklidné spáče
 
 ---
 
@@ -198,73 +158,45 @@ Možné důsledky:
 
 ## 1. Distribution paths
 
-Distribuční cesty Nalehko:
-
-1. **Direct online sales:** zákazník nakoupí na e-shopu, zboží je odesláno dopravcem.
-2. **Direct store sales:** zákazník nakoupí v Liberci nebo Praze.
-3. **Click and collect:** zákazník si vybere online a vyzvedne osobně.
-4. **Supplier to warehouse to customer:** externí značky jsou nakoupeny od dodavatelů, naskladněny a prodány koncovému zákazníkovi.
-5. **Own brand production:** produkty vlastní značky jsou navrženy Nalehko, vyrobeny v českých dílnách a prodány přes vlastní kanály.
+Nalehko využívá přímou i nepřímou distribuční cestu.
+Přímá cesta probíhá přes vlastní e-shop a vlastní kamenné prodejny. Zákazník nakupuje přímo od firmy, která kontroluje prezentaci produktu, cenu, dostupnost, poradenství i následný servis. Tento model je vhodný hlavně pro vlastní produkty Nalehko a pro specializované vybavení, kde je důležité vysvětlení.
+Nepřímá distribuční cesta se objevuje na vstupu do firmy. Nalehko nakupuje část sortimentu od výrobců, distributorů nebo velkoobchodů, například u zahraničních značek outdoorového vybavení. Firma tedy působí jako maloobchodník, který vybírá a kurátoruje produkty pro koncového zákazníka.
+Logistika musí spojovat skladové zásoby pro e-shop a prodejny. Důležité je držet dostupné klíčové velikosti a bestsellery, ale zároveň se vyhnout nadměrným zásobám sezónního zboží. U vratné logistiky je potřeba efektivně řešit výměny velikostí, opravy, reklamace a opětovné naskladnění zboží v prodejném stavu.
 
 ## 2. Store plan
 
-Návrh rozložení prodejny:
+Prodejna by byla rozdělená do několika navazujících částí podle toho, jak se
+v ní zákazník přirozeně pohybuje. Hned za vstupem by se nacházela inspirační
+zóna s novinkami, sezónní výbavou a vybranými akčními produkty. Jejím účelem
+je rychle představit aktuální nabídku a zaujmout také zákazníka, který zatím
+nemá vybraný konkrétní produkt.
 
-```text
-+---------------------------------------------------+
-| Vstup                                             |
-|                                                   |
-| [Novinky]        [Akční produkty]                 |
-|                                                   |
-| [Batohy]         [Spaní: spacáky, quilty, maty]   |
-|                                                   |
-| [Stany/tarpy]    [Obuv]                           |
-|                                                   |
-| [Oblečení]       [Doplňky: vaření, filtry, mapy]  |
-|                                                   |
-| [Test zone: zatížený batoh, karimatka, materiály] |
-|                                                   |
-| [Poradenský pult]        [Pokladna / výdej]       |
-+---------------------------------------------------+
-```
+Za vstupní částí by následovala hlavní produktová zóna. Největší prostor by
+dostaly batohy a vybavení na spaní, tedy spacáky, quilty a karimatky. Jde o
+důležité a často dražší položky, u kterých zákazníci potřebují porovnat více
+variant a poradit s výběrem. Na tyto kategorie by navazovaly stany, tarpy a
+obuv. Oblečení by bylo umístěno v samostatné části poblíž zkušebních kabinek.
+Menší doplňky, jako jsou vařiče, filtry na vodu, mapy nebo cestovní
+příslušenství, by se nacházely v zadní části prodejny a částečně také poblíž
+pokladny, kde mohou podpořit doplňkový prodej.
 
-Odůvodnění:
+Uprostřed nebo v klidnější části prodejny by vznikla testovací zóna. Zákazník
+by si zde mohl vyzkoušet batoh s reálnou zátěží, lehnout si na různé
+karimatky, porovnat materiály nebo si nechat zvážit jednotlivé části výbavy.
+Praktické vyzkoušení by zákazníkovi pomohlo lépe pochopit rozdíly mezi
+produkty a snížilo by riziko nevhodného nákupu.
 
-- Novinky a akční produkty jsou u vstupu, protože rychle zaujmou.
-- Batohy a spaní jsou hlavní kategorie, proto mají největší prostor.
-- Test zone prodlužuje dobu pobytu zákazníka v prodejně a podporuje zážitek.
-- Poradenský pult je blízko pokladny, ale zároveň dostupný pro delší konzultaci.
-- Doplňky jsou v zadní části a u pokladny, protože podporují doplňkový prodej.
+Na konci prodejny by byl umístěn poradenský pult určený pro delší konzultace,
+například při sestavování kompletní výbavy na vícedenní trek. V jeho blízkosti
+by se nacházela pokladna a výdejní místo pro objednávky z e-shopu. Výdejní
+místo by zároveň zůstalo snadno dostupné od vstupu, aby zákazník při rychlém
+vyzvednutí objednávky nemusel procházet celou prodejnou.
 
 ## 3. Equipment, materials and colours
 
-Vybavení prodejny:
-
-- dřevěné regály a kovové konstrukce,
-- závěsné systémy na batohy a oblečení,
-- zkušební plocha se zátěží do batohu,
-- vzorky materiálů,
-- váha na vybavení,
-- digitální obrazovka s gearlisty,
-- prostor pro krátké workshopy.
-
-Barvy:
-
-- přírodní dřevo,
-- tmavě zelená,
-- šedá,
-- bílá,
-- černé technické detaily.
-
-Cílem je propojit přírodní charakter outdooru s technickou přesností ultralight vybavení.
-
-Způsoby zapojení zákazníka:
-
-- možnost zvážit vlastní vybavení,
-- porovnání hmotnosti starého a nového produktu,
-- zkoušení batohu se zátěží,
-- mini poradna "co vzít na víkend",
-- QR kódy u kategorií vedoucí na gearlisty.
+Prodejna by měla působit prakticky, čistě a technicky, ne luxusně ani přeplácaně. Vhodné jsou přírodní a odolné materiály, například světlé dřevo, kovové regály, recyklovaný karton pro POP materiály a textilní prvky připomínající outdoorové vybavení. Barvy by měly vycházet z přírody: zelená, šedá, černá, tlumená oranžová nebo modrá. Tyto barvy podporují spojení s horami a technickým vybavením, ale nepřebíjejí samotné produkty.
+Zákazníka lze zapojit několika způsoby. První možností je váhová stanice, kde si může položit starý produkt a porovnat ho s ultralehkou alternativou. Druhou možností je „gearlist bar“, tedy místo, kde si zákazník sestaví plán výbavy a vidí celkovou hmotnost. Třetí možností je testovací koutek pro batohy, karimatky a vrstvení oblečení.
+Prodloužení pobytu v prodejně by nemělo být založené na náhodném bloudění, ale na užitečné zkušenosti. Zákazník by měl mít možnost číst krátké praktické štítky, prohlédnout si mapy tras, vzít si checklist výbavy nebo se zeptat na konkrétní problém. U specializované prodejny je kvalitní čas v obchodě důležitější než velká plocha.
 
 ## 4. Real wholesaler
 
@@ -274,11 +206,11 @@ TotalOutdoor v ČR a SR zastupuje světové značky zaměřené na vybavení pro
 
 Produkty, které by Nalehko mohlo nakupovat:
 
-- lékárničky,
-- cestovní doplňky,
-- outdoorové hygienické vybavení,
-- bezpečnostní a survival vybavení,
-- doplňky pro camping.
+- lékárničky
+- cestovní doplňky
+- outdoorové hygienické vybavení
+- bezpečnostní a survival vybavení
+- doplňky pro camping
 
 Tyto produkty dobře doplňují hlavní nabídku, protože jde o položky, které zákazník často přidá k většímu nákupu.
 
@@ -290,31 +222,30 @@ Tyto produkty dobře doplňují hlavní nabídku, protože jde o položky, kter�
 
 Online prezentace Nalehko by měla stát na čtyřech pilířích:
 
-1. **E-shop** - jasné kategorie, dostupnost, filtry podle hmotnosti, sezony, aktivity a ceny.
-2. **Knowledge base** - články, návody, videa, gearlisty a srovnání produktů.
-3. **Community** - příběhy zákazníků, festival, workshopy, ambasadoři.
-4. **Consulting** - možnost napsat dotaz, rezervovat konzultaci nebo navštívit prodejnu.
+1. **E-shop** - jasné kategorie, dostupnost, filtry podle hmotnosti, sezony, aktivity a ceny
+2. **Knowledge base** - články, návody, videa, gearlisty a srovnání produktů
+3. **Community** - příběhy zákazníků, festival, workshopy, ambasadoři
+4. **Consulting** - možnost napsat dotaz, rezervovat konzultaci nebo navštívit prodejnu
 
 Návrh hlavní stránky:
 
-- hero sekce s konkrétním sdělením: "Ultralehké vybavení na trek, běh a kolo",
-- rychlé vstupy: Batohy, Spaní, Boty, Oblečení, Gearlisty,
-- blok "Vyber podle cesty": víkend, Stezka Českem, PCT, Camino, bikepacking,
-- produktové doporučení podle sezony,
-- recenze a zkušenosti zákazníků,
-- pozvánka na workshop nebo festival,
-- newsletter s checklistem zdarma.
+- hero sekce s konkrétním sdělením: "Ultralehké vybavení na trek, běh a kolo"
+- rychlé vstupy: Batohy, Spaní, Boty, Oblečení, Gearlisty
+- blok "Vyber podle cesty": víkend, Stezka Českem, PCT, Camino, bikepacking
+- produktové doporučení podle sezony
+- recenze a zkušenosti zákazníků
+- pozvánka na workshop nebo festival
+- newsletter s checklistem zdarma
 
 Online selling možnosti:
 
-- klasický e-shop,
-- personalizovaná doporučení podle typu cesty,
-- opuštěný košík,
-- věrnostní program,
-- dárkové poukazy,
-- balíčky vybavení,
-- online konzultace,
-- cross-sell a up-sell v košíku.
+- klasický e-shop
+- personalizovaná doporučení podle typu cesty
+- opuštěný košík
+- věrnostní program
+- dárkové poukazy
+- balíčky vybavení
+- online konzultace
 
 ## 2. Personas
 
@@ -324,10 +255,10 @@ Jana pracuje v kanceláři v Praze, o víkendech chodí do hor a plánuje první
 
 Potřeby:
 
-- jasný seznam výbavy,
-- rozumný rozpočet,
-- možnost poradit se osobně,
-- jistota, že jí nebude zima a nebude mít příliš těžký batoh.
+- jasný seznam výbavy
+- rozumný rozpočet
+- možnost poradit se osobně
+- jistota, že jí nebude zima a nebude mít příliš těžký batoh
 
 Vhodné sdělení: **Začni chodit nalehko bez zbytečného stresu.**
 
@@ -337,11 +268,11 @@ Petr je zkušený turista a bikepacker z Liberce. Má už kvalitní vybavení, a
 
 Potřeby:
 
-- přesné technické parametry,
-- reálné zkušenosti z testování,
-- porovnání produktů,
-- dostupnost specializovaných značek,
-- rychlé doručení.
+- přesné technické parametry
+- reálné zkušenosti z testování
+- porovnání produktů
+- dostupnost specializovaných značek
+- rychlé doručení
 
 Vhodné sdělení: **Každý gram má smysl, když víš proč.**
 
@@ -364,36 +295,35 @@ U Google Ads je důležité počítat s tím, že cena za proklik se liší podl
 
 Implementace:
 
-- vytvořit landing page pro začátečníky,
-- nastavit měření nákupů v Google Analytics 4,
-- oddělit kampaně podle kategorií,
-- vytvořit remarketing na návštěvníky gearlistů,
-- testovat produktové fotky a titulky,
-- posílat newsletter s checklistem a doporučením produktů.
+- nastavit měření nákupů v Google Analytics 4
+- oddělit kampaně podle kategorií
+- vytvořit remarketing na návštěvníky gearlistů
+- testovat produktové fotky a titulky
+- posílat newsletter s checklistem a doporučením produktů
 
 ## 4. Campaign metrics
 
 Hard metrics:
 
-- počet objednávek,
-- revenue,
-- conversion rate,
-- average order value,
-- ROAS,
-- cost per acquisition,
-- počet nových zákazníků,
-- počet registrací k newsletteru,
-- návštěvnost landing page.
+- počet objednávek
+- revenue
+- conversion rate
+- average order value
+- ROAS
+- cost per acquisition
+- počet nových zákazníků
+- počet registrací k newsletteru
+- návštěvnost landing page
 
 Soft metrics:
 
-- brand awareness,
-- engagement na sociálních sítích,
-- počet komentářů a dotazů,
-- spokojenost po konzultaci,
-- sentiment v recenzích,
-- zapamatovatelnost sloganu,
-- ochota doporučit značku.
+- brand awareness
+- engagement na sociálních sítích
+- počet komentářů a dotazů
+- spokojenost po konzultaci
+- sentiment v recenzích
+- zapamatovatelnost sloganu
+- ochota doporučit značku
 
 ---
 
@@ -405,20 +335,20 @@ Název výzkumu: **Jak dobře pomáháme chodit nalehko?**
 
 Cíl:
 
-- zjistit spokojenost zákazníků s nákupem,
-- ověřit kvalitu poradenství,
-- odhalit překážky nákupu,
-- zjistit, zda produkt splnil očekávání po reálném použití.
+- zjistit spokojenost zákazníků s nákupem
+- ověřit kvalitu poradenství
+- odhalit překážky nákupu
+- zjistit, zda produkt splnil očekávání po reálném použití
 
 Metody:
 
-- krátký dotazník 7 dní po nákupu,
-- druhý dotazník 60 dní po nákupu,
-- NPS otázka,
-- rozhovory se zákazníky v prodejně,
-- analýza recenzí,
-- sledování reklamací a vratek,
-- mystery shopping v prodejnách.
+- krátký dotazník 7 dní po nákupu
+- druhý dotazník 60 dní po nákupu
+- NPS otázka
+- rozhovory se zákazníky v prodejně
+- analýza recenzí
+- sledování reklamací a vratek
+- mystery shopping v prodejnách
 
 Příklad otázek:
 
@@ -434,48 +364,48 @@ Příklad otázek:
 
 Zdroje informací:
 
-- vlastní prodejní data z e-shopu,
-- Google Analytics 4,
-- Google Search Console,
-- interní CRM,
-- recenze zákazníků,
-- dotazy zákaznické podpory,
-- údaje z reklamních systémů,
-- sociální sítě,
-- outdoorová fóra a skupiny,
-- konkurenční e-shopy,
-- veletrhy a festivaly,
-- dodavatelské katalogy,
-- data o turistických trendech,
-- zkušenosti z prodejen.
+- vlastní prodejní data z e-shopu
+- Google Analytics 4
+- Google Search Console
+- interní CRM
+- recenze zákazníků
+- dotazy zákaznické podpory
+- údaje z reklamních systémů
+- sociální sítě
+- outdoorová fóra a skupiny
+- konkurenční e-shopy
+- veletrhy a festivaly
+- dodavatelské katalogy
+- data o turistických trendech
+- zkušenosti z prodejen
 
 ## 3. Performance monitoring system
 
 Sledování firmy:
 
-- měsíční dashboard pro management,
-- týdenní kontrola e-shop metrik,
-- denní kontrola objednávek a skladové dostupnosti,
-- kvartální vyhodnocení marketingu,
-- pravidelné sledování zákaznické spokojenosti.
+- měsíční dashboard pro management
+- týdenní kontrola e-shop metrik
+- denní kontrola objednávek a skladové dostupnosti
+- kvartální vyhodnocení marketingu
+- pravidelné sledování zákaznické spokojenosti
 
 Sledování zaměstnanců:
 
-- kvalita poradenství,
-- počet vyřešených dotazů,
-- zákaznická spokojenost po kontaktu,
-- schopnost doporučit vhodné produkty,
-- znalost sortimentu,
-- práce s reklamacemi,
-- týmová spolupráce.
+- kvalita poradenství
+- počet vyřešených dotazů
+- zákaznická spokojenost po kontaktu
+- schopnost doporučit vhodné produkty
+- znalost sortimentu
+- práce s reklamacemi
+- týmová spolupráce
 
 U prodavačů není vhodné hodnotit pouze tržby. Důležitější je dlouhodobá důvěra, správné doporučení a spokojenost zákazníka.
 
 ## 4. Three controlling areas
 
-1. **Sales controlling** - tržby podle kategorií, marže, průměrná objednávka, konverzní poměr, výkon prodejen.
-2. **Inventory controlling** - obrátkovost zásob, skladová dostupnost, neprodejné zásoby, sezonnost.
-3. **Marketing controlling** - náklady kampaní, ROAS, CPA, přínos newsletteru, organická návštěvnost, návratnost obsahu.
+1. **Sales controlling** - tržby podle kategorií, marže, průměrná objednávka, konverzní poměr, výkon prodejen
+2. **Inventory controlling** - obrátkovost zásob, skladová dostupnost, neprodejné zásoby, sezonnost
+3. **Marketing controlling** - náklady kampaní, ROAS, CPA, přínos newsletteru, organická návštěvnost, návratnost obsahu
 
 ---
 
@@ -487,33 +417,33 @@ Nalehko již logo má. Pro účely projektu navrhuji držet jeho jednoduchý out
 
 Návrh principu loga:
 
-- název **Nalehko** jako hlavní slovní značka,
-- jednoduchý symbol lehkého batohu nebo horské linie,
-- čistá typografie bez zbytečných efektů,
-- důraz na čitelnost v e-shopu, na štítku produktu i na sociálních sítích.
+- název **Nalehko** jako hlavní slovní značka
+- jednoduchý symbol lehkého batohu nebo horské linie
+- čistá typografie bez zbytečných efektů
+- důraz na čitelnost v e-shopu, na štítku produktu i na sociálních sítích
 
 Význam prvků:
 
-- **horská linie** symbolizuje cestu a přírodu,
-- **lehký batoh** symbolizuje hlavní benefit značky,
-- **zelená barva** symbolizuje přírodu,
-- **černá/šedá** symbolizuje technickou kvalitu,
-- **bílý prostor** symbolizuje jednoduchost a odlehčení.
+- **horská linie** symbolizuje cestu a přírodu
+- **lehký batoh** symbolizuje hlavní benefit značky
+- **zelená barva** symbolizuje přírodu
+- **černá/šedá** symbolizuje technickou kvalitu
+- **bílý prostor** symbolizuje jednoduchost a odlehčení
 
 ## 2. Brand image rules
 
 Pravidla značky:
 
-- tón komunikace: přátelský, odborný, praktický,
-- zákazníkovi tykat jen tam, kde to odpovídá stylu značky,
-- nepoužívat agresivní slevovou komunikaci jako hlavní motiv,
-- zdůrazňovat zkušenost, testování a funkčnost,
-- fotografie mají ukazovat skutečné použití v přírodě,
-- produkty prezentovat s přesnými parametry včetně hmotnosti,
-- interiér prodejen držet v přírodních a technických materiálech,
-- oblečení personálu má být jednoduché outdoorové, ideálně s logem,
-- obaly mají být minimalistické a recyklovatelné,
-- dárkové a propagační předměty mají být praktické: buff, vak, čepice, láhev, opravná sada.
+- tón komunikace: přátelský, odborný, praktický
+- zákazníkovi tykat jen tam, kde to odpovídá stylu značky
+- nepoužívat agresivní slevovou komunikaci jako hlavní motiv
+- zdůrazňovat zkušenost, testování a funkčnost
+- fotografie mají ukazovat skutečné použití v přírodě
+- produkty prezentovat s přesnými parametry včetně hmotnosti
+- interiér prodejen držet v přírodních a technických materiálech
+- oblečení personálu má být jednoduché outdoorové, ideálně s logem
+- obaly mají být minimalistické a recyklovatelné
+- dárkové a propagační předměty mají být praktické: buff, vak, čepice, láhev, opravná sada
 
 ## 3. Corporate documents
 
@@ -620,9 +550,9 @@ Stáhni si checklist výbavy zdarma.
 
 Vizuál:
 
-- dvě fotky batohu na váze,
-- vlevo těžký batoh, vpravo odlehčený batoh,
-- jednoduché číselné srovnání hmotnosti.
+- dvě fotky batohu na váze
+- vlevo těžký batoh, vpravo odlehčený batoh
+- jednoduché číselné srovnání hmotnosti
 
 ## 2. Radio advertisement
 
@@ -653,34 +583,34 @@ Scénář:
 3. Záběr na váhu: původní výbava 14 kg, nová výbava 8 kg.
 4. Stejný člověk jde po hřebeni, usmívá se a má lehčí krok.
 5. Detail na batoh, quilt a boty.
-6. Závěrečný claim: **Nalehko. Méně na zádech, víc v hlavě.**
+6. Závěrečný claim: **Nalehko. Méně na zádech, víc v hlavě.**.
 
 ## 4. Media indicators and monitoring tools
 
 Ukazatele:
 
-- reach,
-- frequency,
-- GRP pro TV,
-- počet návštěv landing page,
-- direct traffic,
-- branded search,
-- počet stažení checklistu,
-- počet objednávek po kampani,
-- coupon code usage,
-- nárůst návštěvnosti prodejen,
-- brand recall.
+- reach
+- frequency
+- GRP pro TV
+- počet návštěv landing page
+- direct traffic
+- branded search
+- počet stažení checklistu
+- počet objednávek po kampani
+- coupon code usage
+- nárůst návštěvnosti prodejen
+- brand recall
 
 Nástroje:
 
-- Google Analytics 4,
-- UTM parametry,
-- Google Search Console,
-- reklamní systémy,
-- dotazník v prodejně,
-- unikátní promo kód z rádia,
-- monitoring médií,
-- post-campaign survey.
+- Google Analytics 4
+- UTM parametry
+- Google Search Console
+- reklamní systémy
+- dotazník v prodejně
+- unikátní promo kód z rádia
+- monitoring médií
+- post-campaign survey
 
 ## Word cloud
 
@@ -732,13 +662,13 @@ zkušenost
 
 ## 2. CSR principles
 
-1. **Responsible product selection** - nabízet kvalitní produkty s dlouhou životností.
-2. **Repair before replace** - podporovat opravy a správnou údržbu vybavení.
-3. **Low-waste packaging** - omezovat zbytečné obaly a používat recyklovatelné materiály.
-4. **Support local production** - u vlastní značky preferovat české dílny a transparentní výrobu.
-5. **Outdoor education** - učit zákazníky bezpečnému a ohleduplnému pohybu v přírodě.
-6. **Community support** - podporovat turistické akce, značení tras a outdoorové oddíly.
-7. **Fair communication** - nepřehánět produktové sliby a transparentně uvádět limity vybavení.
+1. **Responsible product selection** - nabízet kvalitní produkty s dlouhou životností
+2. **Repair before replace** - podporovat opravy a správnou údržbu vybavení
+3. **Low-waste packaging** - omezovat zbytečné obaly a používat recyklovatelné materiály
+4. **Support local production** - u vlastní značky preferovat české dílny a transparentní výrobu
+5. **Outdoor education** - učit zákazníky bezpečnému a ohleduplnému pohybu v přírodě
+6. **Community support** - podporovat turistické akce, značení tras a outdoorové oddíly
+7. **Fair communication** - nepřehánět produktové sliby a transparentně uvádět limity vybavení
 
 ## 3. Customer database / CRM
 
@@ -746,36 +676,36 @@ Vhodný CRM nástroj: **Raynet CRM** nebo CRM napojené na Shoptet a e-mailingov
 
 Sbíraná data:
 
-- jméno a příjmení,
-- e-mail,
-- telefon,
-- město,
-- historie objednávek,
-- oblíbené kategorie,
-- plánovaná aktivita,
-- velikosti oblečení a obuvi,
-- preferovaná prodejna,
-- souhlas s marketingem,
-- reklamace a vratky,
-- účast na workshopech,
-- poznámky z konzultace.
+- jméno a příjmení
+- e-mail
+- telefon
+- město
+- historie objednávek
+- oblíbené kategorie
+- plánovaná aktivita
+- velikosti oblečení a obuvi
+- preferovaná prodejna
+- souhlas s marketingem
+- reklamace a vratky
+- účast na workshopech
+- poznámky z konzultace
 
 Použití:
 
-- personalizované newslettery,
-- doporučení vybavení podle aktivity,
-- pozvánky na workshopy,
-- segmentace začátečník vs. zkušený zákazník,
-- retence zákazníků,
-- lepší řešení reklamací.
+- personalizované newslettery
+- doporučení vybavení podle aktivity
+- pozvánky na workshopy
+- segmentace začátečník vs. zkušený zákazník
+- retence zákazníků
+- lepší řešení reklamací
 
 Je nutné dodržet GDPR: sbírat jen potřebná data, mít jasný souhlas, umožnit odhlášení a bezpečně ukládat osobní údaje.
 
 ## 4. Communication and information technology tools
 
-1. **E-mail marketing platform** - newslettery, automatizace po nákupu, opuštěný košík, segmentace podle aktivit.
-2. **Live chat / helpdesk** - rychlé dotazy k velikosti, dostupnosti, výběru vybavení a reklamaci.
-3. **Supplier portal / shared B2B system** - komunikace s dodavateli, objednávky, dostupnost produktů, faktury a produktová data.
+1. **E-mail marketing platform** - newslettery, automatizace po nákupu, opuštěný košík, segmentace podle aktivit
+2. **Live chat / helpdesk** - rychlé dotazy k velikosti, dostupnosti, výběru vybavení a reklamaci
+3. **Supplier portal / shared B2B system** - komunikace s dodavateli, objednávky, dostupnost produktů, faktury a produktová data
 
 ---
 
@@ -791,16 +721,16 @@ Region: Liberec a okolí, Jizerské hory, Krkonoše, část Prahy jako sekundár
 
 Cíl kampaně:
 
-- zvýšit návštěvnost liberecké prodejny,
-- získat nové zákazníky před letní sezonou,
-- posílit vnímání Nalehko jako odborníka na ultralight trekking.
+- zvýšit návštěvnost liberecké prodejny
+- získat nové zákazníky před letní sezonou
+- posílit vnímání Nalehko jako odborníka na ultralight trekking
 
 Target group:
 
-- lidé 25-55 let,
-- turisté, běžci, cyklisté, cestovatelé,
-- začátečníci plánující první delší trek,
-- zkušení outdooroví zákazníci řešící hmotnost.
+- lidé 25-55 let
+- turisté, běžci, cyklisté, cestovatelé
+- začátečníci plánující první delší trek
+- zkušení outdooroví zákazníci řešící hmotnost
 
 Key message:
 
@@ -810,28 +740,28 @@ Odlehči batoh dřív, než vyrazíš do kopce.
 
 Tone of voice:
 
-- praktický,
-- přátelský,
-- zkušený,
-- bez přehnaného výkonového tlaku.
+- praktický
+- přátelský
+- zkušený
+- bez přehnaného výkonového tlaku
 
 Channels:
 
-- regionální rádio,
-- venkovní plakáty u turisticky relevantních míst,
-- PPC a social ads,
-- PR článek v regionálním médiu,
-- spolupráce s turistickými komunitami,
-- event v liberecké prodejně.
+- regionální rádio
+- venkovní plakáty u turisticky relevantních míst
+- PPC a social ads
+- PR článek v regionálním médiu
+- spolupráce s turistickými komunitami
+- event v liberecké prodejně
 
 Timing:
 
-- duben až červen,
-- hlavní vlna před letní sezonou.
+- duben až červen
+- hlavní vlna před letní sezonou
 
 Budget:
 
-- 150 000 Kč na 2 měsíce.
+- 150 000 Kč na 2 měsíce
 
 ## 2. Advertising agency
 
@@ -839,38 +769,38 @@ Vybraná agentura: **Parliamo, s.r.o.**
 
 Parliamo je marketingová agentura z Liberce zaměřená na strategickou marketingovou komunikaci. Pro Nalehko je vhodná, protože:
 
-- je regionálně blízko liberecké prodejně,
-- rozumí lokálnímu trhu,
-- může propojit strategii, PR, online marketing a kreativní komunikaci,
-- regionální ukotvení podporuje autentičnost kampaně.
+- je regionálně blízko liberecké prodejně
+- rozumí lokálnímu trhu
+- může propojit strategii, PR, online marketing a kreativní komunikaci
+- regionální ukotvení podporuje autentičnost kampaně
 
 ## 3. Internal PR tools
 
 Interní PR:
 
-- pravidelný interní newsletter,
-- školení k novým produktům,
-- sdílení zákaznických příběhů,
-- týmové testování vybavení,
-- interní produktové databáze,
-- setkání prodejna + e-shop + marketing,
-- interní soutěž o nejlepší zákaznické doporučení,
-- jasný manuál komunikace značky.
+- pravidelný interní newsletter
+- školení k novým produktům
+- sdílení zákaznických příběhů
+- týmové testování vybavení
+- interní produktové databáze
+- setkání prodejna + e-shop + marketing
+- interní soutěž o nejlepší zákaznické doporučení
+- jasný manuál komunikace značky
 
 ## 4. External PR tools
 
 Externí PR:
 
-- tiskové zprávy k nové sezoně,
-- PR články o ultralight trekkingu,
-- rozhovory se zakladateli nebo product specialisty,
-- spolupráce s ambasadory,
-- workshopy pro veřejnost,
-- festival Nalehko,
-- produktové recenze,
-- komunitní výzvy,
-- partnerství s turistickými akcemi,
-- blog a podcasty.
+- tiskové zprávy k nové sezoně
+- PR články o ultralight trekkingu
+- rozhovory se zakladateli nebo product specialisty
+- spolupráce s ambasadory
+- workshopy pro veřejnost
+- festival Nalehko
+- produktové recenze
+- komunitní výzvy
+- partnerství s turistickými akcemi
+- blog a podcasty
 
 ---
 
@@ -880,32 +810,32 @@ Externí PR:
 
 Potenciální sponzoring:
 
-- lokální turistické pochody,
-- běžecké a trailové závody,
-- bikepackingové akce,
-- cestovatelské festivaly,
-- workshopy pro začínající turisty,
-- dětské turistické oddíly,
-- údržba nebo obnova turistického značení,
-- komunitní výzva "Ukliď trasu",
-- podpora účastníka dálkového treku výbavou.
+- lokální turistické pochody
+- běžecké a trailové závody
+- bikepackingové akce
+- cestovatelské festivaly
+- workshopy pro začínající turisty
+- dětské turistické oddíly
+- údržba nebo obnova turistického značení
+- komunitní výzva "Ukliď trasu"
+- podpora účastníka dálkového treku výbavou
 
 Finančně dostupné formy:
 
-- věcné ceny,
-- dárkové poukazy,
-- sleva pro účastníky,
-- zapůjčení vybavení na test,
-- odborná přednáška,
-- společný newsletter,
-- menší finanční příspěvek na akci.
+- věcné ceny
+- dárkové poukazy
+- sleva pro účastníky
+- zapůjčení vybavení na test
+- odborná přednáška
+- společný newsletter
+- menší finanční příspěvek na akci
 
 ## 2. Associations, clusters or authorities
 
-1. **Klub českých turistů (KČT)** - vhodný partner kvůli turistice, značení tras, členské základně a akcím pro veřejnost.
-2. **Český horolezecký svaz (ČHS)** - relevantní pro zákazníky, kteří řeší horolezectví, skialpinismus a technické outdoorové vybavení.
-3. **Asociace turistických oddílů mládeže (A-TOM)** - vhodná spolupráce pro podporu mladých turistů, vzdělávání a bezpečný pobyt v přírodě.
-4. **Stezka Českem** - projektově vhodný partner pro gearlisty, obsah, ambasadory a komunitu dálkových turistů.
+1. **Klub českých turistů (KČT)** - vhodný partner kvůli turistice, značení tras, členské základně a akcím pro veřejnost
+2. **Český horolezecký svaz (ČHS)** - relevantní pro zákazníky, kteří řeší horolezectví, skialpinismus a technické outdoorové vybavení
+3. **Asociace turistických oddílů mládeže (A-TOM)** - vhodná spolupráce pro podporu mladých turistů, vzdělávání a bezpečný pobyt v přírodě
+4. **Stezka Českem** - projektově vhodný partner pro gearlisty, obsah, ambasadory a komunitu dálkových turistů
 
 ## 3. Humorous advertisement example
 
