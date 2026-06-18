@@ -616,28 +616,26 @@ Nástroje:
 
 Slova pro vizualizaci:
 
-```text
-nalehko
-batoh
-trek
-svoboda
-lehkost
-výbava
-hory
-cesta
-radost
-komfort
-gearlist
-poradenství
-ultralight
-PCT
-Stezka Českem
-spacák
-quilt
-boty
-příroda
-zkušenost
-```
+- nalehko
+- batoh
+- trek
+- svoboda
+- lehkost
+- výbava
+- hory
+- cesta
+- radost
+- komfort
+- gearlist
+- poradenství
+- ultralight
+- PCT
+- Stezka Českem
+- spacák
+- quilt
+- boty
+- příroda
+- zkušenost
 
 ---
 
