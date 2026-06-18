@@ -597,28 +597,26 @@ Tools:
 
 Words for visualization:
 
-```text
-nalehko
-backpack
-trek
-freedom
-lightness
-gear
-mountains
-trail
-joy
-comfort
-gearlist
-consulting
-ultralight
-PCT
-Stezka Českem
-sleeping bag
-quilt
-shoes
-nature
-experience
-```
+- nalehko
+- backpack
+- trek
+- freedom
+- lightness
+- gear
+- mountains
+- trail
+- joy
+- comfort
+- gearlist
+- consulting
+- ultralight
+- PCT
+- Stezka Českem
+- sleeping bag
+- quilt
+- shoes
+- nature
+- experience
 
 ---
 
