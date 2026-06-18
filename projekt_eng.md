@@ -399,14 +399,14 @@ Nalehko already has a logo. For the purposes of the project, I suggest keeping i
 Logo principle proposal:
 
 - the name **Nalehko** as the main wordmark
-- simple symbol of a light backpack or mountain line
+- simple symbol of a light colour or mountain line
 - clean typography without unnecessary effects
 - emphasis on readability in the e-shop, on a product label and on social networks
 
 Meaning of elements:
 
 - **mountain line** symbolizes the journey and nature
-- **light backpack** symbolizes the main benefit of the brand
+- **light tent** symbolizes the main benefit of the brand
 - **green colour** symbolizes nature
 - **black/grey** symbolizes technical quality
 - **white space** symbolizes simplicity and lightening
