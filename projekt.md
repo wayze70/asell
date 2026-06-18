@@ -418,14 +418,14 @@ Nalehko již logo má. Pro účely projektu navrhuji držet jeho jednoduchý out
 Návrh principu loga:
 
 - název **Nalehko** jako hlavní slovní značka
-- jednoduchý symbol lehkého batohu nebo horské linie
+- jednoduchý symbol lehkého stanu nebo horské linie
 - čistá typografie bez zbytečných efektů
 - důraz na čitelnost v e-shopu, na štítku produktu i na sociálních sítích
 
 Význam prvků:
 
 - **horská linie** symbolizuje cestu a přírodu
-- **lehký batoh** symbolizuje hlavní benefit značky
+- **lehký stan** symbolizuje hlavní benefit značky
 - **zelená barva** symbolizuje přírodu
 - **černá/šedá** symbolizuje technickou kvalitu
 - **bílý prostor** symbolizuje jednoduchost a odlehčení
