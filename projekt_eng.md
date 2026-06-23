@@ -845,15 +845,15 @@ Overall, the assignment is understandable, but some parts overlap, for example a
 
 # Sources
 
-- Nalehko - Why Nalehko: https://www.nalehko.cz/proc-nalehko/
-- Nalehko - Stores: https://www.nalehko.cz/prodejny/
-- Nalehko - Contacts: https://www.nalehko.cz/kontakty/
-- Nalehko - Shipping and payment: https://www.nalehko.cz/doprava-a-platba/
-- Nalehko - Terms and conditions: https://www.nalehko.cz/obchodni-podminky/
-- TotalOutdoor - Wholesale: https://www.totaloutdoor.cz/velkoobchod/
-- MarketingPPC - Google Ads costs: https://www.marketingppc.cz/faq/kolik-stoji-google-ads/
-- Google Ads Help - Average daily budget: https://support.google.com/google-ads/answer/10486536
-- Parliamo: https://parliamo.cz/
-- Klub českých turistů - membership: https://kct.cz/o-clenstvi
-- Český horolezecký svaz - membership: https://www.horosvaz.cz/clenstvi-v-chs/
-- Asociace TOM: https://www.a-tom.cz/asociace-tom/co-je-asociace-tom
+- Nalehko. (n.d.). Why Nalehko. https://www.nalehko.cz/en/why-nalehko/
+- Nalehko. (n.d.). Stores. https://www.nalehko.cz/en/physical-stores/
+- Nalehko. (n.d.). Contacts. https://www.nalehko.cz/en/contacts/
+- Nalehko. (n.d.). Shipping and payment. https://www.nalehko.cz/en/shipping-and-payment/
+- Nalehko. (n.d.). Terms and conditions. https://www.nalehko.cz/en/terms-and-conditions/
+- TotalOutdoor. (n.d.). Wholesale. https://www.totaloutdoor.cz/velkoobchod/
+- MarketingPPC. (n.d.). How much do Google Ads cost?. https://www.marketingppc.cz/faq/kolik-stoji-google-ads/
+- Google. (n.d.). Average daily budget. Google Ads Help. https://support.google.com/google-ads/answer/10486536
+- Parliamo. (n.d.). Home page. https://parliamo.cz/
+- Czech Tourist Club. (n.d.). About membership. https://kct.cz/o-clenstvi
+- Czech Mountaineering Association. (n.d.). Membership in CMA. https://www.horosvaz.cz/clenstvi-v-chs/
+- Asociace TOM. (n.d.). What is Association TOM. https://www.a-tom.cz/asociace-tom/co-je-asociace-tom
